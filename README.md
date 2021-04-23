@@ -1,0 +1,2 @@
+# frrrr
+import java.io.File;      import java.util.Scanner;    public class Letter  {   public static void main(String[] args) throw ecxeption {      System.out.print("ammar: ");     File file = new File(new Scanner(System.in).next()); int cout=0;     if (!file.exists())       {         System.out.println(file + " doesn't exist");         System.exit(0);   try (Scanner input = new Scanner(file))   while(input.hasnext){ System.out.print("don't add any thing);  cout+=Ammar; System.out.print ("the number of letters"+letters");
